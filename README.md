@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paranthaman.S</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
 
-- 🌱 I’m currently learning **Excel, Power BI, Tableau, SQL, and Python**
+- 🌱 I’m good at **Excel, Power BI, Tableau, SQL, and Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Paranthaman-S](https://github.com/Paranthaman-S)
 
